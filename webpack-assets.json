@@ -1,0 +1,13 @@
+{
+  "javascript": {
+    "vendor": "/vendor.js",
+    "app": "/app.js"
+  },
+  "styles": {
+    "app": "/app.5d9c56d460054935a0ad.css"
+  },
+  "assets": {},
+  "webpack": {
+    "version": "3.6.0"
+  }
+}
